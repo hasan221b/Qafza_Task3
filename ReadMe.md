@@ -1,5 +1,8 @@
 # Docker Image for Diamond price prediction
 
+##Note:
+The script needs to get your input so when running Docker Image, use this command: docker run -it 
+
 
 ## Link
 
